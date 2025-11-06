@@ -1,1 +1,2 @@
 shop.lululemon.com
+(^|\.)petco\.com$
