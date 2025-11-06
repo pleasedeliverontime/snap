@@ -1,15 +1,1 @@
-(\.|^)lululemon\.com$	
-e7808.dscg.akamaiedge.net	
-dualstack.pinterest.map.fastly.net	
-a1855.dscq.akamai.net	
-dcs-public-edge-va6-158015560.us-east-1.elb.amazonaws.com	
-edge.gycpi.b.yahoodns.net	
-app-analytics-v2.snapchat.com	
-configuration-lb.ls-apple.com.akadns.net	
-configuration.ls.v.aaplimg.com	
-gateway.fe2.apple-dns.net	
-app-analytics-v2.snapchat.com	
-bolt-gcdn.sc-cdn.net	
-amp-api-edge-lb.itunes-apple.com.akadns.net	
-(\.|^)us-east4-gcp\.api\.sc-gw\.com$	
-(\.|^)sc-gw\.com$
+lululemon.com
